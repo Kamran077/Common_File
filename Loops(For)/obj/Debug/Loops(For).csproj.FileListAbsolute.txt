@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\bin\Debug\Loops(For).exe.config
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\bin\Debug\Loops(For).exe
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\bin\Debug\Loops(For).pdb
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\obj\Debug\Loops(For).csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\obj\Debug\Loops(For).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\obj\Debug\Loops(For).exe
+C:\Users\User\Documents\C#_Projects\KamranTest\Loops(For)\obj\Debug\Loops(For).pdb
