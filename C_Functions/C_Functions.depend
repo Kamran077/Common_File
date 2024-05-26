@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716307900 source:c:\users\user\documents\c_projects\c_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MathFunctions.h"
+
+1716305058 c:\users\user\documents\c_projects\c_functions\mathfunctions.h
+
