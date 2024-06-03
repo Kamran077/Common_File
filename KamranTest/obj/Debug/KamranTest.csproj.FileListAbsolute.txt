@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\bin\Debug\KamranTest.exe.config
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\bin\Debug\KamranTest.exe
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\bin\Debug\KamranTest.pdb
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\obj\Debug\KamranTest.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\obj\Debug\KamranTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\obj\Debug\KamranTest.exe
+C:\Users\User\Documents\C#_Projects\KamranTest\KamranTest\obj\Debug\KamranTest.pdb
